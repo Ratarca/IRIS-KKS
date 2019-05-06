@@ -1,0 +1,14 @@
+SOURCE
+https://www.kaggle.com/uciml/iris
+
+KERNELS
+https://www.kaggle.com/mjbahmani/20-ml-algorithms-15-plot-for-beginners
+https://www.kaggle.com/ash316/ml-from-scratch-with-iris
+https://www.kaggle.com/ranjeetjain3/visualization-machine-learning-deep-learning
+https://www.kaggle.com/mgabrielkerr/visualizing-knn-svm-and-xgboost-on-iris-dataset
+https://www.kaggle.com/eliotbarr/dimensionality-reduction-explained
+
+
+https://www.kaggle.com/antmarakis/another-neural-network-from-scratch
+
+
